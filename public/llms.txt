@@ -1,0 +1,104 @@
+# Zyro — Generative Engine Optimization Map
+
+> An online football equipment store specializing in a curated selection of football gear including football shoes, balls, jerseys, and branded socks. The store focuses on football enthusiasts and players looking for quality sports merchandise in one convenient online destination.
+
+---
+
+## Pages
+
+### בית
+https://zyro-3b9b67d7.zappy5.app
+חנות הכדורגל המקוונת Zyro מציעה נעליים, כדורים, חולצות וגרביים ממותגים באיכות גבוהה. הצטרף עכשיו לחוויית קנייה מנצחת עם Zyro by Hostinger.
+
+### למה Zyro
+https://zyro-3b9b67d7.zappy5.app/why-zyro
+למה Zyro היא הבחירה המנצחת? גלה את היתרונות הבלעדיים של חנות הספורט שלנו עם ציוד איכותי, משלוח מהיר ושירות אישי. התחל את המסע שלך עכשיו.
+
+### אודות
+https://zyro-3b9b67d7.zappy5.app/about
+הכירו את Zyro – חנות הכדורגל שנולדה מאהבה לספורט. אנו אוספים עבורכם את מיטב הציוד כדי להעצים כל שחקן. קראו עוד על החזון שלנו.
+
+### צור קשר
+https://zyro-3b9b67d7.zappy5.app/contact
+יש שאלות על ציוד כדורגל? צרו קשר עם Zyro לקבלת ייעוץ מקצועי, תמיכה מהירה והמלצות מותאמות אישית. אנחנו כאן כדי לעזור לך לנצח.
+
+### Products
+https://zyro-3b9b67d7.zappy5.app/products
+המוצרים שלנו - Zyro
+
+### Cart
+https://zyro-3b9b67d7.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://zyro-3b9b67d7.zappy5.app/checkout
+תשלום
+
+### Login
+https://zyro-3b9b67d7.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://zyro-3b9b67d7.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://zyro-3b9b67d7.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://zyro-3b9b67d7.zappy5.app/product/:slug
+פרטי המוצר - Zyro
+
+### Category
+https://zyro-3b9b67d7.zappy5.app/category/:slug
+מוצרים - Zyro
+
+### תודה שפניתם אלינו
+https://zyro-3b9b67d7.zappy5.app/thank-you
+Zyro - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://zyro-3b9b67d7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://zyro-3b9b67d7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://zyro-3b9b67d7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Zyro
+An online football equipment store specializing in a curated selection of football gear including football shoes, balls, jerseys, and branded socks. The store focuses on football enthusiasts and players looking for quality sports merchandise in one convenient online destination.
+
+## Target Audience
+- חובבי כדורגל צעירים
+- הורים לשחקני כדורגל צעירים
+- שחקני ליגות חובבניות
+
+## Industry
+Sports E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://zyro-3b9b67d7.zappy5.app/sitemap.xml
+- Robots: https://zyro-3b9b67d7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://zyro-3b9b67d7.zappy5.app/llms-full.txt
+- Products (JSON): https://zyro-3b9b67d7.zappy5.app/products.json
+- Products (Google Merchant RSS): https://zyro-3b9b67d7.zappy5.app/product-feed.xml
